@@ -1,1 +1,1 @@
-# BidBazaar_back-end
+# BidBazaar_backend
